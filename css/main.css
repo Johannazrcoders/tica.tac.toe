@@ -1,0 +1,10 @@
+.box{
+	display: inline-block;
+	padding:25px;
+	border:2px solid black;
+}
+h1{
+	text-align: center;
+	padding-bottom:40px;
+	border-bottom: 1px solid grey;
+}
